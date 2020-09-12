@@ -10,3 +10,5 @@ add a
 试试 push
 
 branch测试
+
+Creat a new branch is quick AND simple.
